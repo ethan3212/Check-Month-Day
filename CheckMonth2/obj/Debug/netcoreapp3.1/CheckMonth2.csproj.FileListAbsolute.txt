@@ -1,0 +1,14 @@
+C:\Users\ethan\source\repos\CheckMonth2\obj\Debug\netcoreapp3.1\CheckMonth2.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\CheckMonth2\obj\Debug\netcoreapp3.1\CheckMonth2.AssemblyInfo.cs
+C:\Users\ethan\source\repos\CheckMonth2\obj\Debug\netcoreapp3.1\CheckMonth2.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\CheckMonth2\bin\Debug\netcoreapp3.1\CheckMonth2.exe
+C:\Users\ethan\source\repos\CheckMonth2\bin\Debug\netcoreapp3.1\CheckMonth2.deps.json
+C:\Users\ethan\source\repos\CheckMonth2\bin\Debug\netcoreapp3.1\CheckMonth2.runtimeconfig.json
+C:\Users\ethan\source\repos\CheckMonth2\bin\Debug\netcoreapp3.1\CheckMonth2.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\CheckMonth2\bin\Debug\netcoreapp3.1\CheckMonth2.dll
+C:\Users\ethan\source\repos\CheckMonth2\bin\Debug\netcoreapp3.1\CheckMonth2.pdb
+C:\Users\ethan\source\repos\CheckMonth2\obj\Debug\netcoreapp3.1\CheckMonth2.dll
+C:\Users\ethan\source\repos\CheckMonth2\obj\Debug\netcoreapp3.1\CheckMonth2.pdb
+C:\Users\ethan\source\repos\CheckMonth2\obj\Debug\netcoreapp3.1\CheckMonth2.genruntimeconfig.cache
+C:\Users\ethan\source\repos\CheckMonth2\obj\Debug\netcoreapp3.1\CheckMonth2.csproj.AssemblyReference.cache
+C:\Users\ethan\source\repos\CheckMonth2\obj\Debug\netcoreapp3.1\CheckMonth2.GeneratedMSBuildEditorConfig.editorconfig
